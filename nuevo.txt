@@ -1,1 +1,1 @@
-linea editada desde la rama main
+linea editada y resuelta
